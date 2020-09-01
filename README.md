@@ -1,1 +1,1 @@
-# StudyPlatform-Stage7
+# StudyPlatform-Stage6
